@@ -6,9 +6,11 @@ namespace Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello cheemsSS!");    
 
             Console.ReadLine();
         }
     }
 }
+//METODER gör koden mer strukturerad och enklare, men svårare att lära sig.
+//OBJEKTORIENTERING?
